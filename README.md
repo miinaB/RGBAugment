@@ -34,9 +34,9 @@ RGB-D,T,E 각각 다른 데이터셋으로 따로 진행해야 하는 불편함�
 ## RGB Image
 ### Original Image
 color image
-<center><img width="90%" alt="" src="rgbAugmentProject/dataset/animal_data/Cat/Cat_1.jpeg"/></center>
+<center><img width="90%" alt="" src="RGBAugment/PycharmProjects/rgbAugmentProject/dataset/animal_data/Cat/Cat_1.jpeg"/></center>
 
 example output - D,T,E 순서
-<center><img width="90%" alt="" src="rgbAugmentProject/dataset/depth/Cat/Cat_1.tif"/></center>
-<center><img width="90%" alt="" src="rgbAugmentProject/dataset/thermal/Cat/Cat_1.jpg"/></center>
-<center><img width="90%" alt="" src="rgbAugmentProject/dataset/event/Cat/Cat_1.jpg"/></center>
+<center><img width="90%" alt="" src="RGBAugment/PycharmProjects/rgbAugmentProject/dataset/depth/Cat/Cat_1.tif"/></center>
+<center><img width="90%" alt="" src="RGBAugment/PycharmProjects/rgbAugmentProject/dataset/thermal/Cat/Cat_1.jpg"/></center>
+<center><img width="90%" alt="" src="RGBAugment/PycharmProjects/rgbAugmentProject/dataset/event/Cat/Cat_1.jpg"/></center>
