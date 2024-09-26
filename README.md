@@ -38,5 +38,5 @@ color image
 
 example output - D,T,E 순서
 <center><img alt="" src="PycharmProjects/rgbAugmentProject/dataset/depth/Cat/Cat_1.tif"/></center>
-<center><img alt="" src="PycharmProjects/rgbAugmentProject/dataset/thermal/Cat/Cat_1.jpg"/></center>
-<center><img alt="" src="PycharmProjects/rgbAugmentProject/dataset/event/Cat/Cat_1.jpg"/></center>
+<center><img width="25%" alt="" src="PycharmProjects/rgbAugmentProject/dataset/thermal/Cat/Cat_1.jpg"/></center>
+<center><img width="25%" alt="" src="PycharmProjects/rgbAugmentProject/dataset/event/Cat/Cat_1.jpg"/></center>
